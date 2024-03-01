@@ -1,0 +1,2 @@
+# salary.py
+python
